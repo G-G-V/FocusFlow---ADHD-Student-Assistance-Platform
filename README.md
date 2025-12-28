@@ -5,6 +5,11 @@
 A comprehensive full-stack web application designed to help students with ADHD and Autism manage their studies more effectively. The platform processes notes, transcribes audio/video content, generates intelligent summaries, and provides an AI-powered chat assistant with context-aware responses.
 
 ---
+## Project Origin
+This project was originally built as part of a team-based hackathon under the
+`HACKMANV8` GitHub organization.
+This fork exists for portfolio and continued development purposes.
+---
 
 ## ✨ Features
 
